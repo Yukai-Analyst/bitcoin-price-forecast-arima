@@ -34,6 +34,4 @@ ARIMA(p,d,q) Time Series Prediction Model, select optimal hyperparameters via AI
 2. Build LSTM deep learning model, compare forecast performance difference between statistical model and machine learning model
 3. Add macro influencing factor data to realize multi-feature multivariate prediction
 
-## 6. Author Info
-Independent personal project | Applied Statistics, Guangxi University of Finance and Economics
-Target Position: Data Analyst / Business Data Analysis Specialist
+
