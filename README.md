@@ -1,9 +1,3 @@
-| File Name | File Purpose |
-| --- | --- |
-| `ARIMA_enhanced.py` | 全流程建模核心代码 |
-| `bitcoin_btc.csv` | 原始Kaggle比特币行情数据集 |
-| [BTC_ARIMA_Final_Report.pdf](./BTC_ARIMA_Final_Report.pdf) | 完整实证分析报告（点击下载查看） |
-
 # bitcoin-price-forecast-arima
 Bitcoin Price Time Series Analysis & Short-Term Forecast | ARIMA Empirical Research
 
