@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-# 比特币走势预测 - 完整检验步骤的 ARIMA 模型（增强版：保存图表+生成表格）
+# 比特币走势预测 - 完整检验步骤的 ARIMA 模型
 import sys
 import io
-# 强制UTF-8输出，避免GBK编码错误
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 import numpy as np
