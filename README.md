@@ -18,9 +18,9 @@ ARIMA(p,d,q) Time Series Prediction Model, select optimal hyperparameters via AI
 ## 3. Repository File Description
 | File Name | File Purpose |
 | --- | --- |
-| `ARIMA_enhanced.py` | Core analysis code, including full process of data preprocessing, stationary verification, model training, parameter selection, residual diagnosis and result visualization |
-| `bitcoin_btc.csv` | Original Kaggle Bitcoin daily quotation dataset, covering 2014-2026 4250+ trading day closing price data |
-| `Bitcoin_Price_ARIMA_TimeSeries_Forecast_Report.docx` | Full empirical analysis report, including detailed research background, methodology, model derivation, result analysis and conclusion |
+| ARIMA_enhanced.py | 全流程时序分析Python源码 |
+| bitcoin_btc.csv | Kaggle开源BTC历史价格数据集 |
+| [完整实证报告（PDF下载）](./Bitcoin_Price_ARIMA_TimeSeries_Forecast_Report.pdf) | 项目全量研究文档，点击链接下载后查看 |
 
 ## 4. Core Implementation Flow
 1. **Data Preprocessing**: Process 4250+ daily trading data, sort date sequence, complete monthly resampling, eliminate abnormal jump data, convert into standardized monthly price analysis series
